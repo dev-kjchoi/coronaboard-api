@@ -1,6 +1,6 @@
 const { DataTypes } = require("sequelize"); // 시퀄라이즈 불러오기
 
-module.export = (sequelize) => {
+module.exports = (sequelize) => {
   return sequelize.define(
     // 매개변수 1 : 모델 이름
     "GlobalStat",
