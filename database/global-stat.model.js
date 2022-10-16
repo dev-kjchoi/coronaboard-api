@@ -68,7 +68,7 @@ module.exports = (sequelize) => {
         {
           name: "ccWithDate",
           unique: true,
-          fileds: [{ name: "cc" }, { name: "date" }],
+          fields: [{ name: "cc" }, { name: "date" }],
         },
       ],
       timestamps: false, // 타임스탬프 속성 자동 생성 X
