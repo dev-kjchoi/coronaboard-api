@@ -1,0 +1,11 @@
+{
+  "name": "coronaboard-api",
+  "version": "1.0.0",
+  "description": "코로나보드로 배우는 실전 웹 서비스 개발 실습 - Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
